@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="45.499" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="To test the functionality of notification" name="Check share functionality - Example #1.1" time="45.182">
+<system-out><![CDATA[
+Given User is logged In and User is on notification Page....................passed
+When User click on a particular post notification...........................passed
+And clicks on send button of the post.......................................passed
+And Enters the Anika Joshi..................................................passed
+And Select the box infront of the reciever..................................passed
+Then Click on the send button...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
